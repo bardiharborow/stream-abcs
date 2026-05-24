@@ -1,0 +1,20 @@
+# Distribution
+dist/
+
+# Environments
+.venv/
+
+# PyCharm
+.idea/
+
+# Ruff
+.ruff_cache/
+
+# mypy
+.mypy_cache/
+
+# macOS
+.DS_Store
+
+# Windows
+thumbs.db
